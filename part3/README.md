@@ -1,0 +1,1 @@
+In this part our focus shifted towards the backend, that is, towards implementing functionality on the server side of the stack. We implemented a simple REST API in Node.js by using the Express library, and the application's data is be stored in a MongoDB database. At the end of this part, we deployed our application to the internet.
